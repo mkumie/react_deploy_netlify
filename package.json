@@ -1,7 +1,6 @@
 {
   "name": "tutorial4",
   "version": "0.1.0",
-  "homepage": "https://mkumie.github.io/react_deploy_gh",
   "private": true,
   "dependencies": {
     "axios": "^1.2.1",
@@ -40,6 +39,5 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
   }
 }
