@@ -7,7 +7,7 @@ const EditPost = () => {
 
     const editTitle = useStoreState((state) => state.editTitle)
     const editBody = useStoreState((state) => state.editBody)
-    const posts = useStoreState((state) => state.posts)
+    // const posts = useStoreState((state) => state.posts)
 
     const setEditTitle = useStoreActions((actions) => actions.setEditTitle)
     const setEditBody = useStoreActions((actions) => actions.setEditBody)
